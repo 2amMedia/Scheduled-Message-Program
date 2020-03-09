@@ -4,7 +4,14 @@
 <meta charset="UTF-8">
 <title>Title of the document</title>
 </head>
-
+<style>
+  body{ font-family: "Times New Roman", Times, serif;
+}    
+  body { font-size: 40px;
+      }
+  body { color: palevioletred;
+}
+</style>
 <body>
 
 <?php
